@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51565b13-4471-410c-8e45-6684d46e9592": {
+      "ProjectGuid": "51565b13-4471-410c-8e45-6684d46e9592",
+      "DisplayName": "Information encryption tool",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

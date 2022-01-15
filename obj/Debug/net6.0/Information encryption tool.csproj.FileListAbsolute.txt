@@ -1,0 +1,15 @@
+D:\CodeProds\Information encryption tool\bin\Debug\net6.0\Information encryption tool.exe
+D:\CodeProds\Information encryption tool\bin\Debug\net6.0\Information encryption tool.deps.json
+D:\CodeProds\Information encryption tool\bin\Debug\net6.0\Information encryption tool.runtimeconfig.json
+D:\CodeProds\Information encryption tool\bin\Debug\net6.0\Information encryption tool.dll
+D:\CodeProds\Information encryption tool\bin\Debug\net6.0\ref\Information encryption tool.dll
+D:\CodeProds\Information encryption tool\bin\Debug\net6.0\Information encryption tool.pdb
+D:\CodeProds\Information encryption tool\obj\Debug\net6.0\Information encryption tool.csproj.AssemblyReference.cache
+D:\CodeProds\Information encryption tool\obj\Debug\net6.0\Information encryption tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeProds\Information encryption tool\obj\Debug\net6.0\Information encryption tool.AssemblyInfoInputs.cache
+D:\CodeProds\Information encryption tool\obj\Debug\net6.0\Information encryption tool.AssemblyInfo.cs
+D:\CodeProds\Information encryption tool\obj\Debug\net6.0\Information encryption tool.csproj.CoreCompileInputs.cache
+D:\CodeProds\Information encryption tool\obj\Debug\net6.0\Information encryption tool.dll
+D:\CodeProds\Information encryption tool\obj\Debug\net6.0\ref\Information encryption tool.dll
+D:\CodeProds\Information encryption tool\obj\Debug\net6.0\Information encryption tool.pdb
+D:\CodeProds\Information encryption tool\obj\Debug\net6.0\Information encryption tool.genruntimeconfig.cache
